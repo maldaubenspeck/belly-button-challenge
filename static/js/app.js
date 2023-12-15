@@ -80,7 +80,7 @@ var bubbleData = [{
     marker: {
         size: sample_values,
         color: otu_ids,
-        colorscale: "Earth"
+        colorscale: "Electric"
     },
     text: otu_labels
 }];
